@@ -6,6 +6,12 @@ ELSE  ----> Usado caso a condição do IF seja FALSA
 IF    ----> SE     ----> Se sim faça ----> Execute o certo
 ELSE  ----> SE Não ----> Se não - Não faça IF e Sim Else...
 
+----------------- Operadores de comparação ------------------
+
+> --------> MAIOR QUE
+< --------> MENOR QUE
+== -------> IGUAL QUE 
+
  ---------------------- Condicional IF ---------------------- */
 
 const age = 20
@@ -36,3 +42,16 @@ else {
 
 console.log('Terminou de executar meu codigo')
 console.log('----------------------------------------------------')
+
+
+/* ---------------------- Condicional IF & ELSE ---------------------- */
+
+const aprovado = 6.76
+const reprovado = 6.75
+
+if(aprovado >= reprovado){
+    console.log(`Aprovado`)
+}
+else{
+    console.log(`Reprovado`)
+}

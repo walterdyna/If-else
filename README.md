@@ -7,3 +7,9 @@ ELSE  ----> Usado caso a condição do IF seja FALSA
 
 IF    ----> SE     ----> Se sim faça ----> Execute o certo
 ELSE  ----> SE Não ----> Se não - Não faça IF e Sim Else...
+
+----------------- Operadores de comparação ------------------
+
+> --------> MAIOR QUE
+< --------> MENOR QUE
+== -------> IGUAL QUE 
