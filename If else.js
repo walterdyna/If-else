@@ -55,3 +55,15 @@ if(aprovado >= reprovado){
 else{
     console.log(`Reprovado`)
 }
+
+/* ---------------------- Condicional IF & ELSE ---------------------- */
+
+const senha = 123456
+const senhaDigitada = 123457
+
+if ( senhaDoUsuario == senhaDigitada){
+    console.log("Seja-bem vindo, você está logado")
+}
+else {
+    console.log("Senha incorreta!!!")
+}
